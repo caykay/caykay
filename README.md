@@ -35,4 +35,4 @@ Currently exploring the beauty in building websites and mobile applications. I h
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caykay&langs_count=10&show_icons=true&layout=compact&hide=CSS&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=caykay&count_private=true&langs_count=12&show_icons=true&layout=compact&include_orgs=true&theme=tokyonight&exclude_repo=javascript-exercises,WearableComputerLab/Pathway22)
