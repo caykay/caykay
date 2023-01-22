@@ -33,3 +33,5 @@ Currently exploring the beauty in building websites and mobile applications. I h
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
 
 <br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caykay&lang_count=10&layout=compact&hide=CSS&theme=tokyonight)
