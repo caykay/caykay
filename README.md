@@ -15,6 +15,7 @@ Currently exploring the beauty in building websites and mobile applications. I h
   ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd) -->
 - 🗄 &nbsp;Backend:&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
+  ![Python](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python&logoColor=3776AB)
 - 🌐 &nbsp;Frontend:&nbsp;
   ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
   <!-- ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js) -->
@@ -34,4 +35,4 @@ Currently exploring the beauty in building websites and mobile applications. I h
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caykay&lang_count=10&layout=compact&hide=CSS&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caykay&langs_count=10&show_icons=true&layout=compact&hide=CSS&theme=tokyonight)
