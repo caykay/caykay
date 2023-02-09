@@ -35,4 +35,4 @@ Currently exploring the beauty in building websites and mobile applications. I h
 
 <br/>
 
-![Top Langs](https://github-readme-stats-caykay-e4va.vercel.app/api/top-langs/?username=caykay&count_private=true&langs_count=10&show_icons=true&layout=compact&include_orgs=true&theme=tokyonight&exclude_repo=javascript-exercises)
+![Top Langs](https://github-readme-stats-caykay-e4va.vercel.app/api/top-langs/?username=caykay&count_private=true&langs_count=10&show_icons=true&layout=compact&theme=tokyonight&exclude_repo=javascript-exercises,bchinag-v4,first-contributions,github-readme-stats-caykay,BackgroundMusic&hide=ShaderLab,GLSL,HLSL,TeX,BatchFile,Makefile,C,Objective-C,Jupyter%20Notebook,QMake)
