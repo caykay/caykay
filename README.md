@@ -28,6 +28,7 @@ Currently exploring the beauty in building websites and mobile applications. I h
   ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-0A1A2F?style=flat&logo=markdown)
 - 🔧 &nbsp;IDE's/Editors:&nbsp;
+  ![Neovim](https://img.shields.io/badge/neovim-0A1A2F.svg?&style=falt&logo=neovim&logoColor=green)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Sublime text](https://img.shields.io/badge/-Sublime%20Text-0A1A2F?style=flat&logo=sublimetext&logoColor=FF9800)
 - 🖥 &nbsp;Design:&nbsp;
